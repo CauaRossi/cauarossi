@@ -20,7 +20,7 @@
 
 ### Main skills
 - HTML - CSS - JavaScript - PHP - JAVA - Git & GitHub - VSCODE.
-- Packege
+- Package Office - Advanced.
 <br>
 
 <div align="center">
